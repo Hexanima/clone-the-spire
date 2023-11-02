@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\bin\Debug\net7.0\SlaySpire.exe
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\bin\Debug\net7.0\SlaySpire.deps.json
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\bin\Debug\net7.0\SlaySpire.runtimeconfig.json
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\bin\Debug\net7.0\SlaySpire.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\bin\Debug\net7.0\SlaySpire.pdb
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\refint\SlaySpire.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.pdb
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\SlaySpire.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\Programacion de Juegos\Projectos\General\Slay The Spire\obj\Debug\net7.0\ref\SlaySpire.dll
