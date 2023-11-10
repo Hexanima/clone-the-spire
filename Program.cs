@@ -1,5 +1,5 @@
-﻿Unit player = new Unit();
-Unit enemy = new Unit();
+﻿Unit player = new Unit(100, 0, 0, 0);
+Unit enemy = new Unit(100, 7, 0, 0);
 
 Console.WriteLine($"Enemy Health: {enemy.Health}\nEnemy Shield: {enemy.Shield}\n");
 
@@ -20,12 +20,12 @@ Console.WriteLine($"Enemy Health: {enemy.Health}\nEnemy Shield: {enemy.Shield}\n
 
 class Unit
 {
-    public Unit()
+    public Unit(int Health, int Shield, int Strength, int Dexterity)
     {
-        Health = 100;
-        Shield = 7;
-        Strength = 0;
-        Dexterity = 0;
+        this.Health = Health;
+        this.Shield = Shield;
+        this.Strength = Strength;
+        this.Dexterity = Dexterity;
     }
     public int Health { get; set; }
     public int Shield { get; set; }
