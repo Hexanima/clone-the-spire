@@ -1,4 +1,4 @@
-# Slay the Spire Clone
+# Clone the Spire
 
 Este es un proyecto en el cual intento copiar las mecanicas y jugabilidad del videojuego "Slay the Spire" en una aplicacion de consola.
 
